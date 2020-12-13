@@ -1,0 +1,10 @@
+C:\Users\Jason Dong\Documents\timer\StopWatch\bin\Debug\StopWatch.exe
+C:\Users\Jason Dong\Documents\timer\StopWatch\bin\Debug\StopWatch.pdb
+C:\Users\Jason Dong\Documents\timer\StopWatch\obj\Debug\StopWatch.formStopWatch.resources
+C:\Users\Jason Dong\Documents\timer\StopWatch\obj\Debug\StopWatch.RenameForm.resources
+C:\Users\Jason Dong\Documents\timer\StopWatch\obj\Debug\StopWatch.csproj.GenerateResource.cache
+C:\Users\Jason Dong\Documents\timer\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\Jason Dong\Documents\timer\StopWatch\obj\Debug\StopWatch.exe
+C:\Users\Jason Dong\Documents\timer\StopWatch\obj\Debug\StopWatch.pdb
+C:\Users\Jason Dong\Documents\timer\StopWatch\obj\Debug\StopWatch.PopupForm.resources
+C:\Users\Jason Dong\Documents\timer\StopWatch\obj\Debug\StopWatch.csprojAssemblyReference.cache
